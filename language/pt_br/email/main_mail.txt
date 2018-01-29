@@ -1,0 +1,8 @@
+Subject: Assunto
+
+Olá {USERNAME},
+
+TEXT
+
+
+{BOARD_EMAIL}
