@@ -5,7 +5,7 @@
 * @package phpBB Extension - Personal Notes
 * @copyright (c) 2014 OXPUS - www.oxpus.net
 * @license http://opensource.org/licenses/gpl-2.0.php GNU General Public License v2
-* Brazilian Portuguese translation by eunaumtenhoid (c) 2018 [ver 3.1.4] (https://github.com/phpBBTraducoes)
+* Brazilian Portuguese translation by eunaumtenhoid [2018][ver 3.1.7] (https://github.com/phpBBTraducoes)
 */
 
 /*
@@ -27,12 +27,13 @@ if (empty($lang) || !is_array($lang))
 
 $lang = array_merge($lang, array(
 	'ACP_NOTES'				=> 'Configurar notas',
-	'ACP_NOTES_SETTINGS'	=> 'Max. número de notas por usuário',
+	'ACP_NOTES_SETTINGS'	=> 'Número máximo de notas por usuário',
 	'UCP_NOTES'				=> 'Notas',
 	'UCP_NOTES_CONFIG'		=> 'Configurações',
 
 	'NOTES'			    => 'Notas',
 	'POPUP_NOTES'	    => 'Exibir notas pessoais como pop-up',
+	'SLIDE_NOTES'		=> 'Abrir notas como lista de títulos, exiba clicando no título',
 	'FILTER_NOTES'	    => '<strong>Modo de filtro</strong><br />Pressione o botão de pesquisa novamente ou altere o método de classificação para exibir todas as notas.',
 	'NOTES_MEM'		    => 'Lembrar nota',
 	'NOTES_MEM_TIME'	=> 'Lembrar neste período', 
